@@ -1,0 +1,25 @@
+
+
+ #navbarIndexP{
+margin-right: 5px;
+margin-top: 15%;
+        }
+        nav ul a:hover{
+            /*font-weight: bold;*/
+            
+
+            /*color:red;*/
+            font-family: Georgia, 'Times New Roman', Times, serif;
+             
+              
+        }
+                nav ul a{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+
+                }
+
+        nav ul a:hover{
+            color:  black !important;
+            background-color: transparent !important;
+        }
+       
